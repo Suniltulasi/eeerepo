@@ -1,6 +1,4 @@
 package db_operations;
-//efggvg
-//bhghf
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
